@@ -1,0 +1,2 @@
+"id","status","type","created_date","time_zone","created_date_iso","reference","description","is_credit","amount","balance","name","bank_code","account_number","bank_reference","payment_channel"
+"5e74ccb720be357a43d16068","COMPLETED","DEPOSIT","20 Mar 2020, 21:01:27","+0700 UTC","2020-03-20T21:01:27.617+07:00","1256640","","true","1000000000","1000000000","","","","","",""
